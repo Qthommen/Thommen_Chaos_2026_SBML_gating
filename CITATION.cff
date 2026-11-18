@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these SBML models, please cite the associated Chaos article."
+title: "External and state-referenced gating in biological oscillators: SBML models"
+authors:
+  - family-names: "Thommen"
+    given-names: "Quentin"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Thommen"
+      given-names: "Quentin"
+  title: "State-referenced gating reshapes entrainment and perturbation recovery in periodically forced biological oscillators"
+  journal: "Chaos: An Interdisciplinary Journal of Nonlinear Science"
+  volume: "36"
+  year: 2026
+  doi: "10.1063/5.0357018"
